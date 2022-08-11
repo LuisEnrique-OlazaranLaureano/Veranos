@@ -1,0 +1,142 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 829px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 6rem;
+  font-weight: 700;
+  margin: 63px auto 0;
+}
+
+.u-section-1 .u-video-1 {
+  width: 784px;
+  height: 495px;
+  margin: 40px auto 20px;
+}
+
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-video-1 {
+    width: 540px;
+    height: 350px;
+    margin-top: 26px;
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 789px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 675px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 699px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 340px;
+    height: 220px;
+    margin-top: 73px;
+  }
+} .u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 1104px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 4.5rem;
+  font-weight: 700;
+  margin: 70px 206px 0 0;
+}
+
+.u-section-2 .u-video-1 {
+  height: 621px;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+
+.u-section-2 .embed-responsive-1 {
+  position: absolute;
+}
+
+.u-section-2 .u-text-2 {
+  line-height: 1.6;
+  font-size: 1.25rem;
+  font-weight: 300;
+  text-transform: none;
+  margin: -162px 570px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1042px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 6px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-top: 141px;
+    margin-right: 370px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 150px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 689px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-2 .u-video-1 {
+    height: 217px;
+    margin-top: 60px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+    margin-top: 153px;
+    margin-bottom: 1px;
+  }
+}
